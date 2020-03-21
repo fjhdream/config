@@ -1,0 +1,12 @@
+Mar 18 07:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 07:24 : exception: Failed to open '/home/carotadream/.config/mpd/state': No such file or directory
+Mar 18 07:29 : client: [0] opened from 127.0.0.1:34002
+Mar 18 07:30 : client: [0] closed
+Mar 18 07:32 : client: [1] opened from 127.0.0.1:34110
+Mar 18 07:32 : client: [1] closed
+Mar 18 07:37 : client: [2] opened from 127.0.0.1:34550
+Mar 18 07:39 : client: [2] closed
+Mar 18 07:41 : client: [3] opened from 127.0.0.1:34710
+Mar 18 07:41 : client: [3] closed
+Mar 18 07:43 : client: [4] opened from 127.0.0.1:34720
+Mar 18 07:43 : client: [4] closed

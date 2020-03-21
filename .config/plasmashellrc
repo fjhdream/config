@@ -1,0 +1,27 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.discover.desktop,1 services_kcm_lookandfeel.desktop,2 services_fontinst.desktop,1 services_clock.desktop,2 services_kcm_fonts.desktop,1 services_konqbrowser.desktop,1 services_fcitx-configtool.desktop,1 services_fcitx.desktop,1 services_kcm_translations.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal2560]
+thickness=36
+
+[PlasmaViews][Panel 22][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 22][Horizontal2560]
+thickness=42
+
+[PlasmaViews][Panel 24][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 24][Horizontal2560]
+thickness=42
+
+[ScreenConnectors]
+0=DisplayPort-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js

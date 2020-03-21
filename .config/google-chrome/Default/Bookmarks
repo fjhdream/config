@@ -1,0 +1,76 @@
+{
+   "checksum": "59cfcef2ccfc42f7569544cb3cc35527",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13228664912687758",
+            "guid": "e8b60a0b-d919-4edf-8293-4feb7315ceff",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13228664912688033",
+            "guid": "f901a0b3-30c8-4174-bb59-3071d872bcfe",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13228664912688167",
+            "guid": "87acc82b-19bc-4100-894c-de1558f200cd",
+            "id": "7",
+            "name": "地图",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13228866332627199",
+            "guid": "ef8dc722-b519-453f-b260-2f45d4882f08",
+            "id": "9",
+            "name": "百度一下，你就知道",
+            "type": "url",
+            "url": "https://www.baidu.com/"
+         }, {
+            "children": [ {
+               "date_added": "13228958024703500",
+               "guid": "50858728-a600-4863-88ef-4b92ff6f589f",
+               "id": "11",
+               "name": "在Archlinux中安装使用i3-gaps和polybar - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/fd07c3081493"
+            } ],
+            "date_added": "13228958036501440",
+            "date_modified": "13228958036501657",
+            "guid": "898348f7-62f5-4709-a24a-49eaa3660097",
+            "id": "12",
+            "name": "linux",
+            "type": "folder"
+         } ],
+         "date_added": "13228664907455751",
+         "date_modified": "13228958024703500",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13228664907455753",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13228664907455754",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,23 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/v2rayL-master/,$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/v2rayL-master/,file:$HOME/v2rayL-master/
+Recent URLs[$e]=file:$HOME/v2rayL-master/
+detailViewIconSize=0
+
+[MainWindow]
+Height 720=653
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1280=1255
+splitterSizes=416,223
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/config-master.zip
+File2[$e]=/run/media/carotadream/softs/Downloads/v2rayL-master.zip
+File3[$e]=$HOME/v2rayL-master.zip
+Name1[$e]=config-master.zip
+Name2[$e]=v2rayL-master.zip
+Name3[$e]=v2rayL-master.zip

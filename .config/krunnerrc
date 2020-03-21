@@ -1,0 +1,5 @@
+[General]
+history=al,g,goo,shadow,i3,net,google,qq,f,ter,cloud,sha,fire,k,fir,kon
+
+[PlasmaRunnerManager]
+LaunchCounts=1 krunner_appstream_blobby2.desktop,1 shell_i3,1 services_fcitx.desktop,2 services_netease-cloud-music.desktop,9 services_google-chrome.desktop,1 services_fcitx-configtool.desktop,2 services_alacritty.desktop,3 services_shadowsocks-qt5.desktop,1 krunner_appstream_shadowsocks-qt5.desktop,2 services_firefox.desktop,1 baloosearch_/home/carotadream/Applications/yay/src/yay-9.4.6/Dockerfile,1 services_qq.desktop,6 services_org.kde.konsole.desktop,2 krunner_appstream_termite.desktop

@@ -1,0 +1,6 @@
+2020/03/20-05:27:24.024 3e6e Reusing MANIFEST /home/carotadream/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/20-05:27:24.024 3e6e Recovering log #69
+2020/03/20-05:27:24.024 3e6e Reusing old log /home/carotadream/.config/google-chrome/Default/Local Storage/leveldb/000069.log 
+2020/03/20-05:34:11.800 44f0 Level-0 table #73: started
+2020/03/20-05:34:11.803 44f0 Level-0 table #73: 15747 bytes OK
+2020/03/20-05:34:11.805 44f0 Delete type=0 #69

@@ -1,0 +1,20 @@
+[Desktop Entry]
+DefaultProfile=配置方案 1.profile
+
+[Favorite Profiles]
+Favorites=
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 1440=1354
+Height 720=680
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAVLAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1255
+Width 2560=1280
+
+[Notification Messages]
+CloseAllTabs=true
